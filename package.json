@@ -5,7 +5,9 @@
   "main": "main.js",
   "dependencies": {
     "co": "^4.6.0",
+    "del": "^3.0.0",
     "dist-exiftool": "^10.53.0",
+    "mz": "^2.7.0",
     "node-exiftool": "^2.3.0",
     "sharp": "^0.20.7"
   },
